@@ -61,7 +61,7 @@ welcome to attend\!
 
 #### Brisbane OWASP Chapter Leaders
 
-The chapter leaders are [Wade Alcorn](mailto:wade@bindshell.net) and
+The chapter leaders are [Wade Alcorn](mailto:) and
 [Glyn Geoghegan](mailto:glyng@owasp.org) __NOTOC__
 <headertabs></headertabs>
 
