@@ -1,4 +1,4 @@
 ### Leaders
 
 * [Glyn Geoghagen](mailto:glyng@owasp.org)
-* [Wade Alcorn](mailto:)
+* [Wade Alcorn](mailto:wade.alcorn@owasp.org)
