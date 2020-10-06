@@ -2,7 +2,6 @@
 
 layout: col-sidebar
 title: OWASP Brisbane
-tags: example-tag
 level: 0
 
 region: Asia/Pacific
