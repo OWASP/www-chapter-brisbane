@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Brisbane
 level: 0
 
-region: Asia/Pacific
+region: Asia
 
 auto-migrated: 0
 
