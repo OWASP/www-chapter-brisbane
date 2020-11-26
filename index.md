@@ -33,18 +33,17 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
 ## Chapter Meetings
-Details of OWASP Brisbane chapter meetings will be posted on our meetup page.
+Details of OWASP Brisbane chapter meetings will be posted on our meetup page. Our tentative next meeting is on March 4 2021, hopefully in person! Details and date TBC.
+
+
+{% include chapter_events.html group=page.meetup-group %} 
+
 
 We're still looking at logistics around COVID, and will start having IRL meetings again as soon as we can safely.
 
 #### Past Meetings
 
 Huge thanks to our recent speakers!
-
-
-{% include chapter_events.html group=page.meetup-group %} 
-
-
 - October 29, 2020 - Around the world in 80 commits - A first-hand tale of contributing to the OWASP Web App Cheat sheets
 - October 16, 2019 - Tim K - JSON Web Tokens from a Security Perspective
 - June 7, 2019 - Timothy Hamer - Deserialization and the Oracle WebLogic Vunerability (CVE-2019-2725)
