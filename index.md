@@ -35,7 +35,17 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 ## Chapter Meetings
 Details of OWASP Brisbane chapter meetings will be posted on our meetup page.
 
+
 {% include chapter_events.html group=page.meetup-group %} 
 
 
 We're still looking at logistics around COVID, and will start having IRL meetings again as soon as we can safely. We're reviewing online options too, so watch this space!
+
+#### Past Meetings
+
+Huge thanks to our recent speakers!
+
+October 16, 2019 - Tim K - JSON Web Tokens from a Security Perspective
+June 7, 2019 - Timothy Hamer - Deserialization and the Oracle WebLogic Vunerability (CVE-2019-2725)
+March 7, 2019 - Nick Baker - The differences between a bug bounty program and traditional penetration testing
+November 29, 2018 - Alex Penrose - An overview of bug hunting in a fictious banking application
