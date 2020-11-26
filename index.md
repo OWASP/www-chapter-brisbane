@@ -45,6 +45,7 @@ We're still looking at logistics around COVID, and will start having IRL meeting
 
 Huge thanks to our recent speakers!
 
+- October 29, 2020 - Around the world in 80 commits - A first-hand tale of contributing to the OWASP Web App Cheat sheets
 - October 16, 2019 - Tim K - JSON Web Tokens from a Security Perspective
 - June 7, 2019 - Timothy Hamer - Deserialization and the Oracle WebLogic Vunerability (CVE-2019-2725)
 - March 7, 2019 - Nick Baker - The differences between a bug bounty program and traditional penetration testing
