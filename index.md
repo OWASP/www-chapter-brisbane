@@ -7,6 +7,7 @@ level: 0
 region: Asia
 
 auto-migrated: 0
+meetup-group: Brisbane-OWASP-Meetup-Group
 
 ---
 ## Welcome
