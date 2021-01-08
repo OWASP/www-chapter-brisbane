@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Brisbane
 level: 0
 
-region: Asia
+region: Oceania
 
 auto-migrated: 0
 meetup-group: Brisbane-OWASP-Meetup-Group
