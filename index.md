@@ -16,8 +16,6 @@ Welcome to the Brisbane chapter homepage!
 
 We've been a bit quiet during the COVID19 crisis, but we're up and running again!
 
-Virtual meetings for now, but keep your eyes on the meetup for further updates.
-
 ## Local News
 
 #### Presenters and Presentations
