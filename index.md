@@ -16,6 +16,9 @@ Welcome to the Brisbane chapter homepage!
 
 We've been a bit quiet during the COVID19 crisis, but we're up and running again!
 
+## OWASP Brisbane is proudly celebrating OWASP's 20th Anniversary!
+[![OWASP 20th Anniversary Image](assets/images/OWASP%2020th%20Anniversary.jpeg)](https://20thanniversary.owasp.org/)
+
 ## Local News
 
 #### Presenters and Presentations
