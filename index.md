@@ -47,6 +47,7 @@ We are finally back in action, and while we were on the brink of having an IRL m
 #### Past Meetings
 
 Huge thanks to our recent speakers!
+- June 17, 2021 - Sean Titmarsh - OWASP Top 10 - The one they chose will SHOCK you!
 - March 31, 2021 - '6mile' Paul McCarty - All your code repo are belong to us - What the Solarwinds hack should tell us about the state of software development
 - October 29, 2020 - Around the world in 80 commits - A first-hand tale of contributing to the OWASP Web App Cheat sheets
 - October 16, 2019 - Tim K - JSON Web Tokens from a Security Perspective
