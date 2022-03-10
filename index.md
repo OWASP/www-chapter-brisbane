@@ -43,6 +43,7 @@ We are finally back in action, and pending more floods, pandemics or other exter
 {% include chapter_events.html group=page.meetup-group %}
 
 Out next meeting presetation is March 17 from Hakluke!
+
 https://www.meetup.com/Brisbane-OWASP-Meetup-Group/events/284014271/
 
 #### Past Meetings
