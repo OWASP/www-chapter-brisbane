@@ -37,10 +37,10 @@ Chapters are led by local leaders in accordance with the [Chapter Policy](https:
 ## Chapter Meetings
 Details of OWASP Brisbane chapter meetings will be posted on our meetup page. 
 
-We are finally back in action, and while we were on the brink of having an IRL meetup, the lockdown has forced us back on to video conferencing!
+We are finally back in action, and pending more floods, pandemics or other external factors we'll be meeting up IRL!
 
 
-{% include chapter_events.html group=page.meetup-group %} 
+{% include chapter_events.html group=page.meetup-group %}
 
 
 
