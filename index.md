@@ -9,6 +9,8 @@ region: Oceania
 auto-migrated: 0
 meetup-group: Brisbane-OWASP-Meetup-Group
 
+{% include chapter_events.html group=page.meetup-group %}
+
 ---
 ## Welcome
 
@@ -39,16 +41,15 @@ Details of OWASP Brisbane chapter meetings will be posted on our meetup page.
 
 We are finally back in action, and pending more floods, pandemics or other external factors we'll be meeting up IRL!
 
+Out next meeting presetation is May 25th from Laura Bell!
 
-{% include chapter_events.html group=page.meetup-group %}
-
-Out next meeting presetation is March 17 from Hakluke!
-
-[Meetup Details](https://www.meetup.com/Brisbane-OWASP-Meetup-Group/events/284014271/)
+[Meetup Details](https://www.meetup.com/Brisbane-OWASP-Meetup-Group/events/284638731/)
 
 #### Past Meetings
 
-Huge thanks to our recent speakers!
+Huge thanks to our previous presenters!
+- April 21, Patrick Dwyer - CycloneDX and Dependency-Track
+- March 17, HakLuke - Blackbox Monitoring for Timely Bug Detection
 - December 9, 2021 - OWASP Brisbane Networking and social meetup at Miss Demeanour
 - June 17, 2021 - Sean Titmarsh - OWASP Top 10 - The one they chose will SHOCK you!
 - March 31, 2021 - '6mile' Paul McCarty - All your code repo are belong to us - What the Solarwinds hack should tell us about the state of software development
