@@ -9,8 +9,6 @@ region: Oceania
 auto-migrated: 0
 meetup-group: Brisbane-OWASP-Meetup-Group
 
-{% include chapter_events.html group=page.meetup-group %}
-
 ---
 ## Welcome
 
