@@ -37,9 +37,9 @@ Chapters are led by local leaders in accordance with the [Chapter Policy](https:
 ## Chapter Meetings
 Details of OWASP Brisbane chapter meetings will be posted on our meetup page. 
 
-We are finally back in action, and pending more floods, pandemics or other external factors we'll be meeting up IRL!
+We are back in action, and pending more floods, pandemics or other external factors we'll continue meeting up IRL.
 
-Out next meeting presetation is May 25th from Laura Bell!
+Out next meeting is on May 25th from Laura Bell!
 
 [Meetup Details](https://www.meetup.com/Brisbane-OWASP-Meetup-Group/events/284638731/)
 
