@@ -39,7 +39,7 @@ Details of OWASP Brisbane chapter meetings will be posted on our meetup page.
 
 We are back in action, and pending more floods, pandemics or other external factors we'll continue meeting up IRL.
 
-Out next meeting is on May 25th from Laura Bell!
+Out next meeting is on May 25th from Laura Bell of [SafeStack Academy](https://safestack.io)!
 
 [Meetup Details](https://www.meetup.com/Brisbane-OWASP-Meetup-Group/events/284638731/)
 
