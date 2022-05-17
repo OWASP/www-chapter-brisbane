@@ -46,8 +46,8 @@ Out next meeting is on May 25th from Laura Bell!
 #### Past Meetings
 
 Huge thanks to our previous presenters!
-- April 21, Patrick Dwyer - CycloneDX and Dependency-Track
-- March 17, HakLuke - Blackbox Monitoring for Timely Bug Detection
+- April 21, 2022 - Patrick Dwyer - CycloneDX and Dependency-Track
+- March 17, 2022 - HakLuke - Blackbox Monitoring for Timely Bug Detection
 - December 9, 2021 - OWASP Brisbane Networking and social meetup at Miss Demeanour
 - June 17, 2021 - Sean Titmarsh - OWASP Top 10 - The one they chose will SHOCK you!
 - March 31, 2021 - '6mile' Paul McCarty - All your code repo are belong to us - What the Solarwinds hack should tell us about the state of software development
