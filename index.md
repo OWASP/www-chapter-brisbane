@@ -35,17 +35,16 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 Chapters are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](https://owasp.org/www-policy/) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
 ## Chapter Meetings
-Details of OWASP Brisbane chapter meetings will be posted on our meetup page. 
+Details of OWASP Brisbane chapter meetings will be posted on our [meetup page](https://www.meetup.com/brisbane-owasp-meetup-group/events/). 
 
-We are back in action, and pending more floods, pandemics or other external factors we'll continue meeting up IRL.
+Out next meeting is online on June 23rd from Dr. Baljeet Malhotra - API Security in Action for Enterprises
 
-Out next meeting is on May 25th from Laura Bell of [SafeStack Academy](https://safestack.io)!
-
-[Meetup Details](https://www.meetup.com/Brisbane-OWASP-Meetup-Group/events/284638731/)
+[Meetup Details](https://www.meetup.com/brisbane-owasp-meetup-group/events/284014015/)
 
 #### Past Meetings
 
 Huge thanks to our previous presenters!
+- May 25, 2022 - Laura Bell - Team of 30 million
 - April 21, 2022 - Patrick Dwyer - CycloneDX and Dependency-Track
 - March 17, 2022 - HakLuke - Blackbox Monitoring for Timely Bug Detection
 - December 9, 2021 - OWASP Brisbane Networking and social meetup at Miss Demeanour
