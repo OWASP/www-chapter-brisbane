@@ -37,13 +37,15 @@ Chapters are led by local leaders in accordance with the [Chapter Policy](https:
 ## Chapter Meetings
 Details of OWASP Brisbane chapter meetings will be posted on our [meetup page](https://www.meetup.com/brisbane-owasp-meetup-group/events/). 
 
-Out next meeting is online on June 23rd from Dr. Baljeet Malhotra - API Security in Action for Enterprises
+{% include chapter_events.html group=page.meetup-group %}
 
 [Meetup Details](https://www.meetup.com/brisbane-owasp-meetup-group/events/284014015/)
 
 #### Past Meetings
 
 Huge thanks to our previous presenters!
+- July 21, 2022 - Colin Smith - Pentest, Code Review, JackieChanWTF.png
+- June 23, 2022 - Dr. Baljeet Malhotra - API Security in Action for Enterprises
 - May 25, 2022 - Laura Bell - Team of 30 million
 - April 21, 2022 - Patrick Dwyer - CycloneDX and Dependency-Track
 - March 17, 2022 - HakLuke - Blackbox Monitoring for Timely Bug Detection
@@ -55,7 +57,3 @@ Huge thanks to our previous presenters!
 - June 7, 2019 - Timothy Hamer - Deserialization and the Oracle WebLogic Vunerability (CVE-2019-2725)
 - March 7, 2019 - Nick Baker - The differences between a bug bounty program and traditional penetration testing
 - November 29, 2018 - Alex Penrose - An overview of bug hunting in a fictious banking application
-
-#### Automated Meetup Details (testing)
-
-{% include chapter_events.html group=page.meetup-group %}
