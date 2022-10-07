@@ -39,8 +39,6 @@ Details of OWASP Brisbane chapter meetings will be posted on our [meetup page](h
 
 {% include chapter_events.html group=page.meetup-group %}
 
-[Meetup Details](https://www.meetup.com/brisbane-owasp-meetup-group/events/284014015/)
-
 #### Past Meetings
 
 Huge thanks to our previous presenters!
