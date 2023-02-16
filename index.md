@@ -42,6 +42,8 @@ Details of OWASP Brisbane chapter meetings will be posted on our [meetup page](h
 #### Past Meetings
 
 Huge thanks to our previous presenters!
+- December 13, 2022 - End of Year Networking
+- November 10, 2022 - Duncan Jepson (klaxon) - Shift Left Threat Modelling
 - July 21, 2022 - Colin Smith - Pentest, Code Review, JackieChanWTF.png
 - June 23, 2022 - Dr. Baljeet Malhotra - API Security in Action for Enterprises
 - May 25, 2022 - Laura Bell - Team of 30 million
