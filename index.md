@@ -44,6 +44,13 @@ Details of OWASP Brisbane chapter meetings will be posted on our [meetup page](h
 
 Huge thanks to our previous presenters!
 
+- May 14, 2024 - Haoxi - Rethinking attack surface management for an entire country
+- April 17, 2024 - Colby Prior - Understanding the attack vectors in open-source packages
+- March 14, 2024 - Jack - AppSec: Where to Start, and Some Free, Easy Wins
+- February 7, 2024 - Jeremy Snyder - API Security Breach Analysis & Empowering Devs to Make Secure APIs
+- December 4, 2023 - End of year celebration!
+- October 25, 2023 - Colin - CSRF and CORS: $num.toString() Facts and a Lie.
+- September 6,2023 - Haoxi - Dependable dependency systems and supply chain risk
 - July 25,2023 - Amir - Every action on every device tells a story
 - June 20, 2023 - Craig Waterhouse - PCI - The Good, The Bad and the Ugly
 - May 16, 2023 - Paul McCarty - The DevSecOps Playbook-step by step open source guide-building DevSecOps program
