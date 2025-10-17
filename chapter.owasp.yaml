@@ -1,0 +1,31 @@
+community:
+  - name: chapter-brisbane
+    platform: slack
+    url: https://owasp.slack.com/archives/C055R6ZJDRD
+leaders:
+  - name: Glyn Geoghegan
+    email: glyng@owasp.org
+    github: glyn-owasp
+  - name: Dale Hewitson
+    email: dale.hewitson@owasp.org
+  - name: Wade Alcorn
+    email: wade.alcorn@owasp.org
+    github: wadealcorn
+location:
+  country: Australia
+  country_code: AU
+  region: Queensland
+  city: Brisbane
+  latitude: -27.4689682
+  longitude: 153.0234991
+meetup_group: Brisbane-OWASP-Meetup-Group
+name: OWASP Brisbane
+repositories:
+  - name: www-chapter-brisbane
+    url: https://github.com/OWASP/www-chapter-brisbane
+    description: OWASP Foundation Web Repository
+tags:
+  - custom-tag-1
+  - custom-tag-2
+  - custom-tag-3
+website: https://owasp.org/www-chapter-brisbane
