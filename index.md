@@ -31,7 +31,7 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 Chapters are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](https://owasp.org/www-policy/) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
 ## Chapter Meetings
-Details of OWASP Brisbane chapter meetings will be posted on our [meetup page](https://www.meetup.com/brisbane-owasp-meetup-group/events/). 
+Details of OWASP Brisbane chapter meetings will be posted on our [meetup page](https://www.meetup.com/brisbane-owasp/events/). 
 
 {% include chapter_events.html group=page.meetup-group %}
 
