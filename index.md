@@ -49,7 +49,6 @@ Huge thanks to our previous presenters!
 - July 25,2023 - Amir - Every action on every device tells a story
 - June 20, 2023 - Craig Waterhouse - PCI - The Good, The Bad and the Ugly
 - May 16, 2023 - Paul McCarty - The DevSecOps Playbook-step by step open source guide-building DevSecOps program
-- April 18, 2023 - Andrew Wheatley - Vulnerability Management for Scalable Teams 
 - March 23, 2023 - Louis Nyffenegger - Introduction to SAML and its Security
 - February 23, 2023 -  Raafey Khan - Can AppSec testing really be automated?
 - December 13, 2022 - End of Year Networking
