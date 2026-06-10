@@ -15,6 +15,8 @@ meetup-group: Brisbane-OWASP-Meetup-Group
 
 Welcome to the Brisbane chapter homepage!
 
+_We have new hosts for 2026 and will be back with a meetup on July 10th in Brisbane!_
+
 ## Local News
 
 #### Presenters and Presentations
@@ -31,8 +33,7 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 Chapters are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](https://owasp.org/www-policy/) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
 ## Chapter Meetings
-Good news everybody! We have a new host in Brisbane, and we're ready to rock with a comeback meeting on 10th July!
-
+**Good news everybody! We have a new host in Brisbane, and we're ready to rock with a comeback meeting on 10th July!**
 More details soon - watch the OWASP Brisbane chapter meetings will be posted on our [meetup page](https://www.meetup.com/brisbane-owasp/events/), but save the date for now!
 
 
@@ -42,6 +43,12 @@ More details soon - watch the OWASP Brisbane chapter meetings will be posted on 
 
 Huge thanks to our previous presenters!
 
+- Feb 10, 2025 - Gurdip Singh - Foundational Lessons in Application Security
+- Nov 18, 2024 - Louis Nyffenegge - Recent Discoveries in My Source Code Review Journey: Navidrome Vulnerabilities
+- Nov 12, 2024 - API Security Workshop with OWASP crAPI (hands-on)
+- Aug 6, 2024 - OWASP Juice Shop – Hands-On Pen Testing
+- Jul 17, 2024 - Threat Modelling Software Supply Chains During a Red Team Assessment
+- Jun 10, 2024 - How Quantum Computers Can Become a Threat to Cryptography
 - May 14, 2024 - Haoxi - Rethinking attack surface management for an entire country
 - April 17, 2024 - Colby Prior - Understanding the attack vectors in open-source packages
 - March 14, 2024 - Jack - AppSec: Where to Start, and Some Free, Easy Wins
