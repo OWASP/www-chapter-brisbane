@@ -15,7 +15,7 @@ meetup-group: Brisbane-OWASP-Meetup-Group
 
 Welcome to the Brisbane chapter homepage!
 
-_We have new hosts for 2026 and will be back with a meetup on July 10th in Brisbane!_
+_We have new hosts for 2026 and will be back with a meetup on July 9th in Brisbane!_
 
 ## Local News
 
@@ -33,7 +33,7 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 Chapters are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](https://owasp.org/www-policy/) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
 ## Chapter Meetings
-**Good news everybody! We have a new host in Brisbane, and we're ready to rock with a comeback meeting on 10th July!**
+**Good news everybody! We have a new host in Brisbane, and we're ready to rock with a comeback meeting on 9th July!**
 More details soon - watch the OWASP Brisbane chapter meetings will be posted on our [meetup page](https://www.meetup.com/brisbane-owasp/events/), but save the date for now!
 
 
