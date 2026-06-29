@@ -34,8 +34,9 @@ Chapters are led by local leaders in accordance with the [Chapter Policy](https:
 
 ## Chapter Meetings
 **Good news everybody! We have a new host in Brisbane, and we're ready to rock with a comeback meeting on 9th July!**
-More details soon - watch the OWASP Brisbane chapter meetings will be posted on our [meetup page](https://www.meetup.com/brisbane-owasp/events/), but save the date for now!
+Check the OWASP Brisbane chapter meetings page [meetup page](https://www.meetup.com/brisbane-owasp-meetup-group/) for more details, but we have the excellent Paul McCarty presenting for us to kick things off again!
 
+- July 9, 2026 - Paul McCarty - Hunting adversary threats in github
 
 {% include chapter_events.html group=page.meetup-group %}
 
