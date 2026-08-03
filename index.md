@@ -15,7 +15,7 @@ meetup-group: Brisbane-OWASP-Meetup-Group
 
 Welcome to the Brisbane chapter homepage!
 
-_We have new hosts for 2026 and will be back with a meetup on July 9th in Brisbane!_
+_We have new hosts for 2026 and our next talk is on August 13th in Brisbane!_
 
 ## Local News
 
@@ -36,7 +36,7 @@ Chapters are led by local leaders in accordance with the [Chapter Policy](https:
 **Good news everybody! We have a new host in Brisbane, and we're ready to rock with a comeback meeting on 9th July!**
 Check the OWASP Brisbane chapter meetings page [meetup page](https://www.meetup.com/brisbane-owasp-meetup-group/) for more details, but we have the excellent Paul McCarty presenting for us to kick things off again!
 
-- July 9, 2026 - Paul McCarty - Hunting adversary threats in github
+- August 13, 2026 - Ben Gittins - AppSec in a world where code is free
 
 {% include chapter_events.html group=page.meetup-group %}
 
@@ -44,6 +44,7 @@ Check the OWASP Brisbane chapter meetings page [meetup page](https://www.meetup.
 
 Huge thanks to our previous presenters!
 
+- July 9, 2026 - Paul McCarty - Hunting adversary threats in github
 - Feb 10, 2025 - Gurdip Singh - Foundational Lessons in Application Security
 - Nov 18, 2024 - Louis Nyffenegge - Recent Discoveries in My Source Code Review Journey: Navidrome Vulnerabilities
 - Nov 12, 2024 - API Security Workshop with OWASP crAPI (hands-on)
